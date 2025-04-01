@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* <!-- Google tag (gtag.js) --> */}
-        <Script async src={`https://www.googletagmanager.com/gtag/js?id=G-NTB5S8XZ34></Script>
+        <Script async src={`https://www.googletagmanager.com/gtag/js?id=G-NTB5S8XZ34`></Script>
         <Script id="google-analytics">
           {
             `
